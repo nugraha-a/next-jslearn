@@ -4,3 +4,8 @@ const nextConfig = {
 }
 
 module.exports = nextConfig
+
+// module.exports = {
+//   reactStrictMode: true,
+//   pageExtensions: ['fetcher.ts','init.ts','service.ts']
+// }
